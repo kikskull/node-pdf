@@ -1,0 +1,1 @@
+Projeto para salvar um HTML em EJS como PDF utilizando Puppeteer
